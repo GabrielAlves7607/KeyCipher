@@ -40,5 +40,5 @@ A aplicação ainda permite **salvar** as mensagens criptografadas em um arquivo
 
 ## 🖥️ Tela Inicial
 
-> *(![image](https://github.com/user-attachments/assets/1ad656f4-01f5-456f-af7c-1f500a5f2fdf)
-)*
+> *![image](https://github.com/user-attachments/assets/1ad656f4-01f5-456f-af7c-1f500a5f2fdf)
+*
